@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-18T07:23:31.000Z</updated>
+  <updated>2017-02-18T07:38:26.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,16 +20,16 @@
     <link href="http://yoursite.com/2017/02/18/%E5%BC%80%E5%8D%9A/"/>
     <id>http://yoursite.com/2017/02/18/开博/</id>
     <published>2017-02-18T07:21:47.000Z</published>
-    <updated>2017-02-18T07:23:31.000Z</updated>
+    <updated>2017-02-18T07:38:26.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="开博"><a href="#开博" class="headerlink" title="开博"></a>开博</h2><p>你怕不怕？反正我怕！</p>
+    <content type="html"><![CDATA[<p>你怕不怕？反正我怕！</p>
 <p><em>几点说明：</em><br>1、此博客用于记录学习过程中的一些困扰以及分享一些个人学习心得；<br>2、此博客基于<a href="https://pages.github.com/" target="_blank" rel="external">Github Pages</a>&amp;<a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>搭建，网上教程一大推，就不再啰嗦搭建过程了，别人的文章可能会比较早，你搭建过程中可能会遇到一些问题，不要在意，Keep Walking and Solve it；<br>3、值得说明的一点，此博客的主题使用的是<a href="https://github.com/hexojs/hexo-theme-light.git themes/light" target="_blank" rel="external">light</a>，这个主题是基于<a href="http://stylus-lang.com/" target="_blank" rel="external">stylus</a>、<a href="http://www.embeddedjs.com/" target="_blank" rel="external">ejs</a>编写的，个人挺喜欢这个主题，所以准备基于这个主题修改自己的主题，正好顺便学习下JavaScript；<br>4、博文是md格式静态文件，写作的过程中主要是用马克飞象、印象笔记、Sublime（Sublime支持的md插件个人不太喜欢，所以用得比较少）。<br>5、Stay hungry, Stay foolish.</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;开博&quot;&gt;&lt;a href=&quot;#开博&quot; class=&quot;headerlink&quot; title=&quot;开博&quot;&gt;&lt;/a&gt;开博&lt;/h2&gt;&lt;p&gt;你怕不怕？反正我怕！&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;几点说明：&lt;/em&gt;&lt;br&gt;1、此博客用于记录学习过程中的一些困扰以及分享一些个人学习心得；&lt;b
+      &lt;p&gt;你怕不怕？反正我怕！&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;几点说明：&lt;/em&gt;&lt;br&gt;1、此博客用于记录学习过程中的一些困扰以及分享一些个人学习心得；&lt;br&gt;2、此博客基于&lt;a href=&quot;https://pages.github.com/&quot; target=&quot;_blank&quot; rel=&quot;e
     
     </summary>
     
